@@ -42,5 +42,6 @@ const HeroesFilters = () => {
         </div>
     )
 }
+/** Before update */
 
 export default HeroesFilters;
