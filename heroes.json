@@ -1,0 +1,67 @@
+{
+  "heroes": [
+    {
+      "id": "b4956fc6-b002-452e-8c78-57a65d9cd0cd",
+      "name": "312312",
+      "description": "3213213",
+      "element": "Все"
+    },
+    {
+      "id": "9f17cba2-2dde-455b-9267-7f3798a8f4a9",
+      "name": "312312dsfsdf",
+      "description": "3213213dsfsdfdsf",
+      "element": "Все"
+    },
+    {
+      "id": "b1452692-bbd9-4586-b377-257fc000fd03",
+      "name": "312312dsfsdf",
+      "description": "3213213dsfsdfdsf",
+      "element": "Огонь"
+    },
+    {
+      "id": "6a8ddc30-02bc-45c7-a506-27f91b4fbd84",
+      "name": "312312dsfsdf",
+      "description": "3213213dsffdsfsdfsdfsdfdsf",
+      "element": "Огонь"
+    },
+    {
+      "id": "da110ca3-f234-44ce-9e71-8101d6c90c12",
+      "name": "312312dsfsdf111",
+      "description": "3213213dsffdsfsdfsdfsdfdsf",
+      "element": "Вода"
+    },
+    {
+      "id": "6b3f0899-3adf-42f0-8e54-6a9504185d7b",
+      "name": "312312dsfsdf111wqewqeqwe",
+      "description": "3213213dsffdsfsdfsdfsdfdsf",
+      "element": "Вода"
+    }
+  ],
+  "filters": [
+    {
+      "type": "Все",
+      "btnClass": "btn btn-outline-dark",
+      "id": 1
+    },
+    {
+      "type": "Огонь",
+      "btnClass": "btn btn-danger",
+      "id": 2
+    },
+    {
+      "type": "Вода",
+      "btnClass": "btn btn-primary",
+      "id": 3
+    },
+    {
+      "type": "Ветер",
+      "btnClass": "btn btn-success",
+      "id": 4
+    },
+    {
+      "type": "Земля",
+      "btnClass": "btn btn-secondary",
+      "id": 5
+    }
+  ]
+}
